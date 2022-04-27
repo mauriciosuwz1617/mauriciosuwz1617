@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Maurício Vieira</h1>
-<h3 align="center">Apaixonado por Análise de dados, Estatística (Especialista em R, SAS, Power BI, Python, SPSS, STATA, Excel, MySQL, e SQL Sever. </h3>
+<h3 align="center">Apaixonado por Análise de dados, Estatística (Especialista em R, SAS, Power BI, Python, SPSS, STATA, Excel, MySQL, e SQL Sever) </h3>
 
 - Atualmente estou trabalhando com análise e visualização de dados [Portifólio Geral Maurício](https://drive.google.com/drive/folders/1H9h7ecwTL6POA-9lUAsjwL6a-G3EOy9Y?usp=sharing)
 
